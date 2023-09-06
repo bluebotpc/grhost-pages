@@ -1,11 +1,11 @@
 lang: en
 title: GR Host
 theme: jekyll-theme-minimal
-tagline: Enabled Growth
-description: "Honest Web Hosting"
-author: Matt Faulkner
-#baseurl: "https://gr-host-pages.pages.dev/"
-url: "https://www.grhost.net"
+tagline: Next Generation Cloud
+description: "NextGen Cloud Services"
+author: Ruby Skinner
+baseurl: "https://grhost-pages.pages.dev/"
+#url: "https://www.grhost.net"
 permalink: pretty
 favicon: /assets/img/favicon.ico
 logo: /assets/img/logo_color.png
